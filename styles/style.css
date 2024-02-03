@@ -1,0 +1,21 @@
+/* #region nav */
+.nav {
+  background-color: #444;
+  height: 100px;
+}
+
+.nav__list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  line-height: 100px;
+  gap: 20px;
+}
+
+.nav__list__item {
+  color: azure;
+  text-decoration: none;
+  
+}
+
+/* #endregion */
