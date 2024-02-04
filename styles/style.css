@@ -22,7 +22,9 @@
 
 /* #region main  */
 
-
+.section {
+  height: 400px;
+}
 
 /* #region section-1  */
 
