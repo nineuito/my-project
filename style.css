@@ -1,0 +1,43 @@
+/* #region nav */
+.nav {
+  background-color: #999;
+  height: 120px;
+}
+
+.nav__list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  line-height: 120px;
+  gap: 20px;
+}
+
+.nav__list__item {
+  color: white;
+  text-decoration: none;
+}
+
+/* #endregion */
+
+/* #region main  */
+
+.section {
+  height: 400px;
+  padding: 20px;
+}
+
+/* #region section-1  */
+
+/* #endregion */
+
+/* #region section-2  */
+/* #endregion */
+
+/* #region section-3  */
+/* #endregion */
+
+/* #region section-4  */
+/* #endregion */
+
+
+/* #endregion */
