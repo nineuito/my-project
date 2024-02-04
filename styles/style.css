@@ -1,6 +1,6 @@
 /* #region nav */
 .nav {
-  background-color: #555;
+  background-color: #787676;
   height: 100px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .nav__list__item {
-  color: azure;
+  color: white;
   text-decoration: none;
 }
 
